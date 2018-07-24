@@ -1,3 +1,3 @@
 # repo2
 
-HI THIS IS SHREE!!!! - Favian Sun
+Bioinformatics camp '17
