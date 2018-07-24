@@ -1,3 +1,3 @@
-# repo2
+# bioInfoDos
 
 Bioinformatics camp '17
